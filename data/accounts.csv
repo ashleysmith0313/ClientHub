@@ -1,1 +1,4 @@
-
+account_id,name,industry,status,owner,priority,last_updated,documents,notes
+A-001,Acme Corp,Manufacturing,Prospect,A. Rivera,1,2025-10-01,acme-nda.pdf,Interested in pilot for Q4.
+A-002,Globex,Healthcare,Active,S. Chen,2,2025-09-15,globex-intro.pptx,Renewal due Q1; strong reference.
+A-003,Initech,Technology,Discovery,M. Patel,3,2025-08-22,,Waiting on security review.
